@@ -1,8 +1,11 @@
-package com.n_san.scavi;
-
 /**
- * Created by n_san on 28-11-2017.
+ * SCAVIView.java - Creates the output rectangles in the mobile display
+ * Author: Santhanakrishnan Narayanan (n.santhanakrishnan@gmail.com)
+ * Creation date: 27/11/2017
+ * Last modified: 14/02/2018
  */
+
+package com.n_san.scavi;
 
 import android.content.Context;
 import android.graphics.Canvas;
