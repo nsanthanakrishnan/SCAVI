@@ -10,8 +10,8 @@
 
 ### Editing the code
 Two classes 'SCAVIActivity' and 'SCAVIView' are used in this project and they can be found in app -> java -> com.n_san.scavi
-SCAVIActivity - Main class that gets the point cloud data and processes it
-SCAVIView - Creates the output rectangles
+1. SCAVIActivity - Main class that gets the point cloud data and processes it
+2. SCAVIView - Creates the output rectangles in the mobile display
 
 ### Connecting the tango device
 1. Install the usb drivers of the mobile model
