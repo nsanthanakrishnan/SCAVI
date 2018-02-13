@@ -1,3 +1,10 @@
+/**
+ * SCAVIActivity.java - gets the point cloud data and processes it
+ * Compares two {@code int} values numerically.
+ * Author: Santhanakrishnan Narayanan (n.santhanakrishnan@gmail.com)
+ * Creation date: 14/02/2018
+ */
+
 package com.n_san.scavi;
 
 import com.google.atap.tangoservice.Tango;
